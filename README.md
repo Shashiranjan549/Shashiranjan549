@@ -6,7 +6,10 @@ Java | Python | C | HTML | CSS | JS | SQL
 # Software :- 
 Android Studio | Git & GitHub | MySQL | Firebase | Unity (AR/VR)
 # Current Focus :-
-* DSA with Java<br><br> AIML Projects<br><br> Advanced Android Development<br><br> AR/VR Experiences
+* DSA with Java
+*AIML Projects
+*Advanced Android Development
+*AR/VR Experiences
 # 📌 Projects :- 
 📱 Android Apps |🤖 AIML Mini Projects | 🌐 Responsive Web Projects | 🥽 AR/VR Applications | 💻 DSA Problem Solutions
 ## 🌐 Socials:

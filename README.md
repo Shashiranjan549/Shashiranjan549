@@ -2,8 +2,11 @@
 # 👨‍💻 About Me :-
 📱 Android Developer using Java  <br> 🤖 Learning and building projects in AI/ML<br> 💡 Practicing Data Structures & Algorithms with Java<br> 🌐 Skilled in HTML, CSS, JavaScript<br> 🐍 Python Programmer<br> 🗄️ Database Knowledge: MySQL<br> 🥽 AR/VR Developer<br> 📚 Strong understanding of OOPs Concepts<br> 🎯 Passionate about building real-world applications and solving problems<br><br> 
 # Languages :- 
-Java | Python | C | HTML | CSS | JS | SQL<br><br># Software :- Android Studio | Git & GitHub | MySQL<br>* Firebase | Unity (AR/VR)
-# Current Focus<br><br>* DSA with Java<br>* AIML Projects<br>* Advanced Android Development<br>* AR/VR Experiences
+Java | Python | C | HTML | CSS | JS | SQL
+# Software :- 
+Android Studio | Git & GitHub | MySQL<br>* Firebase | Unity (AR/VR)
+# Current Focus :-
+* DSA with Java<br>* AIML Projects<br>* Advanced Android Development<br>* AR/VR Experiences
 # 📌 Projects :- 
 📱 Android Apps |🤖 AIML Mini Projects | 🌐 Responsive Web Projects | 🥽 AR/VR Applications | 💻 DSA Problem Solutions
 ## 🌐 Socials:
